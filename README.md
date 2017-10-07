@@ -1,1 +1,1 @@
-# Android_ses_ile_yazi_yazdirma
+android sesi yazıya dönüştürme
