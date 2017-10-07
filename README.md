@@ -1,1 +1,3 @@
-android sesi yazıya dönüştürme
+android studio sesi yazıya çevirme
+
+http://www.yasirbilici.com/android-studio-sesi-yaziya-donusturme/
